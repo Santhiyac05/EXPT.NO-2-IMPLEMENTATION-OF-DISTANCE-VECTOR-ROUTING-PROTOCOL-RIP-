@@ -3,14 +3,19 @@
 
 To connect computers in multiple networks using Distance Vector Routing Protocol and to verify the connectivity between computers.
 # EQUIPMENTS REQUIRED:
-
+Desktop computer Cisco Packet Tracer 5.0 Software.
 
 
 # IP ASSIGNMENT:
+<img width="1032" height="671" alt="image" src="https://github.com/user-attachments/assets/595e5b88-8e85-4d26-a628-f0d089f39420" />
 
 
 
 # NETWORK DIAGRAM:
+<img width="983" height="588" alt="image" src="https://github.com/user-attachments/assets/fc38c062-17ed-462a-8598-3caf8dfce63c" />
+<img width="1032" height="511" alt="image" src="https://github.com/user-attachments/assets/3405dc98-02bc-4599-9cfd-93b5fcd8127d" />
+
+
 # PROCEDURE:
 
 STEP 1: Open a Packet Tracer Software.
@@ -79,6 +84,9 @@ You can also check connectivity between the PCs on different networks to ensure 
 •	Similarly, you can ping between other PCs (e.g., from PC2 to PC5) to verify network connective
  
 # OUTPUT
+<img width="388" height="602" alt="image" src="https://github.com/user-attachments/assets/0a70c5c2-ede5-499d-b461-6e9d5fb8d6f2" />
+<img width="353" height="322" alt="image" src="https://github.com/user-attachments/assets/07b11a93-6726-4f03-83b6-9cff23f73600" />
+
 
 
 
